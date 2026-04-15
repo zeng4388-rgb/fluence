@@ -1,0 +1,3 @@
+SURVEY     FOV        TIME       Gain    Tsys     Npol     SN0    BW
+CHIME_1    200        8760       1.4     50       2        9.0     400
+CHIME_2    200        17520      1.4     50       2        9.0     400
